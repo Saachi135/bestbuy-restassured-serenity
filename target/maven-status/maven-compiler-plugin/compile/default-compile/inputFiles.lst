@@ -1,8 +1,8 @@
 C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\constants\Path.java
 C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\utils\TestUtils.java
 C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\utils\PropertyReader.java
-C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\model\ProductPojo.java
-C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\steps\StoreSteps.java
-C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\steps\ProductSteps.java
+C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\steps\StoresSteps.java
+C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\model\StoresPojo.java
+C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\steps\ProductsSteps.java
 C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\constants\Endpoints.java
-C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\model\StorePojo.java
+C:\Users\gp_14\IdeaProjects\bestbuy-restassured-serenity\src\main\java\com\bestbuy\serenity\model\ProductsPojo.java

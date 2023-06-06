@@ -1,8 +1,9 @@
 com\bestbuy\serenity\constants\Path.class
-com\bestbuy\serenity\model\ProductPojo.class
-com\bestbuy\serenity\steps\StoreSteps.class
+com\bestbuy\serenity\model\StoresPojo.class
 com\bestbuy\serenity\utils\TestUtils.class
+com\bestbuy\serenity\steps\ProductsSteps.class
+com\bestbuy\serenity\model\StoresPojo$Services.class
+com\bestbuy\serenity\steps\StoresSteps.class
 com\bestbuy\serenity\utils\PropertyReader.class
-com\bestbuy\serenity\model\StorePojo.class
+com\bestbuy\serenity\model\ProductsPojo.class
 com\bestbuy\serenity\constants\Endpoints.class
-com\bestbuy\serenity\steps\ProductSteps.class

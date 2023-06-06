@@ -1,7 +1,7 @@
 com\bestbuy\serenity\testsuite\ProductsAssertionTest.class
 com\bestbuy\serenity\testsuite\StoresAssertionTest.class
-com\bestbuy\serenity\crudtest\ProductCRUDTest.class
 com\bestbuy\serenity\testsuite\ProductExtractionTest.class
+com\bestbuy\serenity\crudtest\ProductsCRUDTest.class
 com\bestbuy\serenity\testbase\TestBase.class
-com\bestbuy\serenity\crudtest\StoreCRUDTest.class
+com\bestbuy\serenity\crudtest\StoresCRUDTest.class
 com\bestbuy\serenity\testsuite\StoreExtractionTest.class
